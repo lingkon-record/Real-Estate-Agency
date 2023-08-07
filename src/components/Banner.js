@@ -18,7 +18,7 @@ const Banner = () => {
           </p>
         </div>
         <div className="hidden flex-1 lg:flex justify-end items-end">
-          <img src={Image} />
+          <img src={Image} alt="image" />
         </div>
       </div>
       <Search />
