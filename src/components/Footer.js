@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <footer className="bg-yellow-50 dark:bg-gray-900">
+    <footer className="bg-emerald-100 dark:bg-gray-900">
       <div className="mx-auto w-full max-w-screen-xl">
         <div className="grid grid-cols-2 gap-8 px-4 py-6 lg:py-8 md:grid-cols-4">
           <div>
@@ -12,61 +12,56 @@ const Footer = () => {
             <ul className="text-gray-500 dark:text-gray-400 font-medium">
               <li className="mb-4">
                 <a href="#" className=" hover:underline">
-                  About
+                  Apartment-based
                 </a>
               </li>
               <li className="mb-4">
                 <a href="#" className="hover:underline">
-                  Careers
+                  House Based
                 </a>
               </li>
               <li className="mb-4">
                 <a href="#" className="hover:underline">
-                  Rent Center
-                </a>
-              </li>
-              <li className="mb-4">
-                <a href="#" className="hover:underline">
-                  Blog
+                  1 Day Hotels
                 </a>
               </li>
             </ul>
           </div>
           <div>
             <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">
-              Help center
+              Global-Office
             </h2>
             <ul className="text-gray-500 dark:text-gray-400 font-medium">
               <li className="mb-4">
                 <a href="#" className="hover:underline">
-                  Discord Server
+                  Dubai Rent
                 </a>
               </li>
               <li className="mb-4">
                 <a href="#" className="hover:underline">
-                  Twitter
+                  India Rent
                 </a>
               </li>
               <li className="mb-4">
                 <a href="#" className="hover:underline">
-                  Facebook
+                  USA Rent
                 </a>
               </li>
               <li className="mb-4">
                 <a href="#" className="hover:underline">
-                  Contact Us
+                  Canada Rent
                 </a>
               </li>
             </ul>
           </div>
           <div>
             <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">
-              Legal
+              Paper
             </h2>
             <ul className="text-gray-500 dark:text-gray-400 font-medium">
               <li className="mb-4">
                 <a href="#" className="hover:underline">
-                  Privacy Policy
+                  VAT-TEX
                 </a>
               </li>
               <li className="mb-4">
@@ -76,14 +71,14 @@ const Footer = () => {
               </li>
               <li className="mb-4">
                 <a href="#" className="hover:underline">
-                  Terms &amp; Conditions
+                  Visa &amp; Conditions
                 </a>
               </li>
             </ul>
           </div>
           <div>
             <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">
-              Download
+              Our App
             </h2>
             <ul className="text-gray-500 dark:text-gray-400 font-medium">
               <li className="mb-4">
@@ -96,24 +91,10 @@ const Footer = () => {
                   Android
                 </a>
               </li>
-              <li className="mb-4">
-                <a href="#" className="hover:underline">
-                  Windows
-                </a>
-              </li>
-              <li className="mb-4">
-                <a href="#" className="hover:underline">
-                  MacOS
-                </a>
-              </li>
             </ul>
           </div>
         </div>
         <div className="px-4 py-6 bg-gray-100 dark:bg-gray-700 md:flex md:items-center md:justify-between">
-          <span className="text-sm text-gray-500 dark:text-gray-300 sm:text-center">
-            © 2023 <a href="https://flowbite.com/">Real-Estate-Angent</a>. All
-            Rights Reserved.
-          </span>
           <div className="flex mt-4 space-x-5 sm:justify-center md:mt-0">
             <a
               href="#"
@@ -207,6 +188,10 @@ const Footer = () => {
               <span className="sr-only">Dribbble account</span>
             </a>
           </div>
+          <span className="text-sm text-gray-500 dark:text-gray-300 sm:text-center">
+            © 2023 <a href="https://flowbite.com/">Real-Estate-Angent</a>. All
+            Rights Reserved.
+          </span>
         </div>
       </div>
     </footer>
