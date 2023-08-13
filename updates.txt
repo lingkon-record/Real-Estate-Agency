@@ -2,7 +2,11 @@ https://www.youtube.com/watch?v=CHe_QJcTK5Y&t=4414s
 
 scratch : https://github.com/cristianmihai01/real-estate-starter
 
-01 hour 07 menite
+01 hour 13 menite
 
 
 Real-Estate-Agency website design
+
+git add .
+git commit -m "last"
+git push origin main
