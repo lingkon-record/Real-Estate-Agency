@@ -76,23 +76,6 @@ const Footer = () => {
               </li>
             </ul>
           </div>
-          <div>
-            <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">
-              Our App
-            </h2>
-            <ul className="text-gray-500 dark:text-gray-400 font-medium">
-              <li className="mb-4">
-                <a href="#" className="hover:underline">
-                  iOS
-                </a>
-              </li>
-              <li className="mb-4">
-                <a href="#" className="hover:underline">
-                  Android
-                </a>
-              </li>
-            </ul>
-          </div>
         </div>
         <div className="px-4 py-6 bg-gray-100 dark:bg-gray-700 md:flex md:items-center md:justify-between">
           <div className="flex mt-4 space-x-5 sm:justify-center md:mt-0">

@@ -1,5 +1,4 @@
 import React from "react";
-import Image from "../assets/img/house-banner.png";
 import Search from "../components/Search";
 
 const Banner = () => {
@@ -9,10 +8,10 @@ const Banner = () => {
         <div className="lg:ml xl:ml-[135px] flex flex-col items-center lg:items-start text-center lg:text-left justify-center flex-1 px-4 lg:px-0">
           <h1 className="text-4xl lg:text-[58px] font-semibold leading-none mb-6">
             <span className="text-violet-700 ">Real Estate</span> for Sale in
-            Asia-Europe
+            Asia-India
           </h1>
           <p className="max-w-[480px] mb-8 mt-4">
-            The pace in the Europe-Asia is relaxed, but there is plenty to do on
+            The pace in the India-Asia is relaxed, but there is plenty to do on
             both land and water. Clear waters and rich marine life make for
             exhilarating diving and deep-sea fishing, whilst water sports
             ranging from kayaking and catamaran sailing to wakeboarding and kite
